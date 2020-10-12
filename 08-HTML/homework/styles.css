@@ -1,0 +1,15 @@
+h1 {
+    color:#168572;
+}
+img {
+    width:"400px";
+}
+#thridDiv {
+    height:"600px" width="500px";  background-color: #d09be5; padding: 50px; border-style: black double;
+}
+#spanId {
+    font-size: 18px;
+}
+.divClass {
+    background-color: rgb(201, 241, 235);
+}
