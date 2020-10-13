@@ -196,6 +196,7 @@ function obtenerSaludo(nombre) {
   // Tu código:
   var saludoCompleto = "Hola "+ nombre + "!";
   return saludoCompleto;
+  
 }
 
 function obtenerAreaRectangulo(alto, ancho) {
